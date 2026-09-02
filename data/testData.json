@@ -1,0 +1,14 @@
+{
+    "validUser": {
+        "email": "rahul.shetty@gmail.com",
+        "password": "Iamking@000"
+    },
+    "invalidUser": {
+        "email": "wrong@gmail.com",
+        "password": "wrongpass"
+    },
+    "products": {
+        "product1": "ZARA COAT 3",
+        "product2": "ADIDAS ORIGINAL"
+    }
+}
